@@ -1,0 +1,6 @@
+{
+  "name": "GenAI Project Blueprint & Live Studio",
+  "description": "Complete professional Generative AI project development plan, FastAPI architecture, live Gemini playground, source code generator, and exportable documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
